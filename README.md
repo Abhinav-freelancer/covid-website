@@ -1,1 +1,1 @@
-# covid-website
+# covidwebsite
